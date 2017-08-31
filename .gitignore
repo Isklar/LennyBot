@@ -1,2 +1,6 @@
 credentials.py
 __pycache__/
+env/
+run.sh
+count.txt
+*.old.*
